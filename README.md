@@ -2,8 +2,9 @@
 App in Node.js and React
 
 ## Steps
-1. run **npm run server**
-2. run **npm start**
+1. run **npm install**
+2. run **npm run server**
+3. run **npm start**
 
 Url http://localhost:3000/
 
