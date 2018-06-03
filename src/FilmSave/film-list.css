@@ -1,0 +1,21 @@
+.container {
+    margin-right: 0
+}
+
+img{
+    cursor: pointer;
+}
+
+textarea {
+    resize: none
+}
+
+.comments {
+    max-height: 300px;
+    overflow-y: auto;
+}
+.author {
+    text-align: right;
+    font-style: italic;
+    font-size: 12px;
+}
